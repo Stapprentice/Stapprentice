@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stapprentice
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Javascript
 - 💞️  At first I’m looking to collaborate as an apprentice on creating CV, resume or showcase site
 - 📫 How to reach me: stapprenticegithub@gmail.com
 
